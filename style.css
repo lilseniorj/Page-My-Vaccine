@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  background: white;
+  line-height: 1.42857143;
+}
+
+.header__img{
+  height: 60px;
+}
+
+.informo_1{
+  color: #fc688d;
+  align-items: flex-start;
+}
+
+.uno_img{
+  vertical-align: middle;
+  justify-content: center;
+}
+
+.head_1{
+  color: #6722B0;
+  font-weight: 700px;
+  font-size: 24px;
+  text-align: left;
+  justify-items: flex-end;
+}
+
+.head_2{
+  color:#063E63;
+  font-weight: 700px;
+  font-size: 23px;
+  text-align: center;
+}
+
+.head_3{
+  color: #6722B0;
+  font-size: 18px;
+  text-align: -webkit-center;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+.container{
+  background-color: rgb(255, 255, 255);
+  border: 1px solid;
+  border-color: #E2ECFD;;
+  width: 710px;
+  height: 260px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  text-align:left;
+  font-size: 18px;
+}
+.color_vacuna{
+  color: #6722B0;
+  padding: 5px;
+  text-align: center;
+}
+
+.cuadro_1{
+  font-family: inherit;
+  margin: 20px;
+}
+
+.container_buttom{
+  background-color: #fff;
+  border: 1px solid;
+  border-color: #ccc;
+  font-size: 14px;
+  line-height: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding: 6px 12px;
+  width: 700px;
+  height: 260px;
+  margin: 20px auto;
+  position:relative;
+  display: grid;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid transparent;
+  font-weight: normal;
+}
+
+.search__img{
+  padding: auto;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.cloud__img{
+  padding: auto;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.text_container{
+  color: #063E63;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-align: center;
+  font-size: 15px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.buttom_end{
+  background-color: #337ab7;
+  border-color: #337ab7;
+  color: #fff;
+  display: inline-block;
+  background-image: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+  line-height: 20px; 
+  padding-bottom: 10px; 
+  width: 577px;
+  cursor: pointer;
+  position:relative;
+}
+
+.footer_container{
+  border-top-color: #004884 ;
+  background-color: #004884;
+  color: #fff;
+  display:grid;
+  box-sizing: border-box;
+  border-top-style: solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 14px;
+  text-size-adjust: 20px;
+  line-height: 20px;
+  min-width: 70%;
+
+}
