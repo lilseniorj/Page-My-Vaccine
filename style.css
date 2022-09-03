@@ -122,8 +122,8 @@ body{
   border-radius: 5px;
   padding-right: 15px;
   padding-left: 15px;
-  line-height: 20px; 
-  padding-bottom: 10px; 
+  line-height: 20px;
+  padding-bottom: 10px;
   width: 577px;
   cursor: pointer;
   position:relative;
@@ -142,5 +142,4 @@ body{
   text-size-adjust: 20px;
   line-height: 20px;
   min-width: 70%;
-
 }
